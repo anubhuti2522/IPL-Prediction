@@ -5,7 +5,7 @@ Here are insights of <b>TABLEAU</b>: <br><br>
 First, here is the <b>python code</b> for the calculations of <b>the Best Batsman</b> by finding his total runs, total strike rate, maximum sixes and fours in all the seasons.</br>
 ![](https://github.com/anubhuti2522/IPL-Prediction/blob/master/images/BatsmanCode.png)<br><br>
 
-<center>Fig 1: Batsman with <b>the Highest Number of Runs</b> throughout the seasons</br></center>
+Fig 1: Batsman with <b>the Highest Number of Runs</b> throughout the seasons</br>
 ![](https://github.com/anubhuti2522/IPL-Prediction/blob/master/images/scorer.png)<br><br>
 
 Fig 2: Batsman with <b>the Highest Strike Rate</b> throughout the seasons</br>
